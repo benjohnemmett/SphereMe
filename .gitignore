@@ -1,0 +1,6 @@
+*.pyc
+output
+*.swp
+*.bak
+*.bkp
+*~
